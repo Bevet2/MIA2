@@ -1,0 +1,32 @@
+{
+    "male_deep": {
+        "name": "Deep Male Voice",
+        "description": "A deep, resonant male voice suitable for powerful ballads",
+        "bark_prompt": "A male voice with a deep, resonant tone:",
+        "embedding_seed": 42
+    },
+    "male_smooth": {
+        "name": "Smooth Male Voice",
+        "description": "A smooth, warm male voice ideal for pop songs",
+        "bark_prompt": "A male voice with a smooth, warm tone:",
+        "embedding_seed": 43
+    },
+    "female_clear": {
+        "name": "Clear Female Voice",
+        "description": "A clear, bright female voice perfect for pop and jazz",
+        "bark_prompt": "A female voice with a clear, bright tone:",
+        "embedding_seed": 44
+    },
+    "female_warm": {
+        "name": "Warm Female Voice",
+        "description": "A warm, soulful female voice great for R&B",
+        "bark_prompt": "A female voice with a warm, soulful tone:",
+        "embedding_seed": 45
+    },
+    "robotic": {
+        "name": "Robotic Voice",
+        "description": "A futuristic, robotic voice for electronic music",
+        "bark_prompt": "A robotic, synthesized voice:",
+        "embedding_seed": 46
+    }
+}

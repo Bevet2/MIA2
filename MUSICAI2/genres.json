@@ -1,0 +1,34 @@
+{
+    "genres": {
+        "pop": {
+            "name": "Pop",
+            "search_terms": ["pop music", "pop hits", "popular music"],
+            "count": 1000
+        },
+        "rock": {
+            "name": "Rock",
+            "search_terms": ["rock music", "rock hits", "classic rock"],
+            "count": 1000
+        },
+        "hip_hop": {
+            "name": "Hip Hop",
+            "search_terms": ["hip hop music", "rap music", "hip hop hits"],
+            "count": 1000
+        },
+        "electronic": {
+            "name": "Electronic",
+            "search_terms": ["electronic music", "edm", "electronic dance music"],
+            "count": 1000
+        },
+        "jazz": {
+            "name": "Jazz",
+            "search_terms": ["jazz music", "jazz classics", "jazz hits"],
+            "count": 1000
+        },
+        "classical": {
+            "name": "Classical",
+            "search_terms": ["classical music", "orchestra music", "symphony"],
+            "count": 1000
+        }
+    }
+}
